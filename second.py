@@ -1,4 +1,4 @@
-num=int(input("enter any number: "))
+num=int(input("odd number: "))
 x=num%2
 if x==0:
     print("is an even number")
